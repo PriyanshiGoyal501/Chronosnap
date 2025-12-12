@@ -1,0 +1,7 @@
+{
+  "name": "ChronoSnap: Time-Travel Photobooth",
+  "description": "Step into a time machine! Transform your photos into historical eras or futuristic visions using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
